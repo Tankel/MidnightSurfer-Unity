@@ -19,10 +19,9 @@ All visuals and audio are original or sourced from royalty-free packs.
 - **Score:** Your total = (orbs × 5) + (flip combos × multiplier). Try to beat your own record!
 
 ## Controls
-- **Move  :** Tap or hold **Right Arrow** (→) to run; **Left Arrow** (←) to brake  
-- **Jump  :** Tap **Space** (or **Z** on keyboard/controller)  
-- **Flip  :** While airborne, press **Up Arrow** (↑) for a front-flip or **Down Arrow** (↓) for a back-flip  
-- **Pause :** Hit **Esc** to pause/resume  
+- **Move  :** Arrow keys (← ↑ ↓ →) or **W / A / S / D**  
+- **Jump  :** Press **Space**  
+- **Flip  :** While airborne, press **Right Arrow** (→) for a front-flip or **Left Arrow** (←) for a back-flip  
 
 ## Installation
 1. Install **Unity 2021.3 LTS** (or later) from https://unity.com/download  
@@ -32,12 +31,4 @@ All visuals and audio are original or sourced from royalty-free packs.
    ```
 3. Open **Unity Hub**, click **Add**, select the cloned folder, then launch the project.  
 4. Press **Play** in the Unity Editor to start running!
-
-## Contributions
-
-Contributions and feedback are very welcome! If you spot a bug or have an idea for a feature, please:  
-1. Open an **Issue** to start the discussion  
-2. Fork the repo, make your changes, then submit a **Pull Request**  
-
-Let’s make OrbFlip Run the most exhilarating endless runner ever!  
 
